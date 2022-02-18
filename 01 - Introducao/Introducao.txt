@@ -1,0 +1,7 @@
+Neste projeto estarei compartilhando com vocês,
+alguns dos exercícios de algoritmos e lógica de
+programação que realizei na linguagem de progra-
+mação Python, linguagem na qual iniciei no uni-
+verso da programação. Caso, algum dos meus códi-
+gos não respeite a pep8, estarei disposto a 
+fazer a correção.

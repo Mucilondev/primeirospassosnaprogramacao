@@ -1,0 +1,12 @@
+Ao longo destes meses estudando a lógica de programação,
+aprendi que por meio dela posso estar direcionando o meu
+pensamento ao pensamento da máquina, e que através de 
+algoritmos, passo a passo, posso estar instruindo a
+máquina para realizar os procedimentos que eu desejo
+que ela faça para mim.
+
+Este curso na DIO, está sendo muito proveitoso, estou
+esclarecendo idéias que eu tinha em diversos assuntos
+na área de Devs. Recomendo fortemente para todos, aqueles
+que estão iniciando na área de programação como eu, a 
+estarem realizados os bootcamps gratuitos da DIO.
